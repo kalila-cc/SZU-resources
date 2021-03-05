@@ -6,7 +6,7 @@
 
 > 需要拥有`Github`账号。
 
-- [点击](https://github.com/kalila-cc/SZU-resources)进入该仓库页面，并点击`Fork`
+- 在该仓库页面找到`Fork`并点击
 - 在新页面左上角的仓库名下面可以看到`forked from xxx`，说明已经`fork`成功
 - 进入特定的需要上传文件的文件夹路径（如要上传的路径是`foo/bar.txt`则进入`foo`文件夹）
 - 找到`Add files`，再点击`Upload files`子选项
