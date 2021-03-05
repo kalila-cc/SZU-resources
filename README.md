@@ -15,9 +15,12 @@
 - 新增文件完成后，找到`Pull requests`选项卡，点击`New pull request`，接着点击`Create pull request`，然后填写标题和注释，说明新增了什么文件，最后再次点击`Create pull request`即可
 - 所有步骤完成后，你的`Github`可能出现`xxx/SZU-resources`仓库，如果不希望其显示，可以点击进入该页面，找到`Settings`，拖至页面底部，，点击`Delete this repository`，按照要求删除仓库即可
 
+## 下载
+前往[Google网上应用店]( https://chrome.google.com/webstore/category/extensions?hl=zh-CN )，找到扩展程序[GitZip for github]( https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn?hl=zh-CN )并安装，就可以通过双击Github仓库中需要下载的部分文件或文件夹，从而仅仅下载所需要的部分文件。
+
 ## 规范
 
-> 为了规范化仓库内容结构，请在上传时对文件夹结构或文件名进行适当的调整。另外，鼓励所有电子书均以链接形式上传。
+> 为了规范化仓库内容结构，请在上传时对文件夹结构或文件名进行适当的调整。另外，鼓励所有正规出版电子书均以链接形式上传。
 - 课程
   - 课程名
     - 课程分支（区分上下册和编号，如果不需要区分则省略该分支）
