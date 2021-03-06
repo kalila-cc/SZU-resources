@@ -11,7 +11,7 @@
 - 进入特定的需要上传文件的文件夹路径（如要上传的路径是`foo/bar.txt`则进入`foo`文件夹）
 - 找到`Add files`，再点击`Upload files`子选项
 - 若仅上传文件则通过拖拽上传或选择文件上传，若上传文件夹则通过拖拽上传
-- 若文件太大不被允许上传，假设名为`filename.xxx`，请点击`Add files -> Create new file`，然后新建一个文件，名称格式为`[链接]filename.xxx.txt`，用以说明这是一个链接内容文本，内容遵循格式`链接: <网盘链接>\n密码：<提取码>\n`，此处的`\n`是转行，请注意使用永久有效的分享链接
+- 若文件太大不被允许上传，假设名为`filename.xxx`，请点击`Add files -> Create new file`，然后新建一个文件，名称格式为`[链接]filename.xxx.txt`，用以说明这是一个链接内容文本，内容遵循格式`链接: <网盘链接>\n密码：<提取码>\n`，此处的`\n`是转行，请注意使用永久有效的分享链接，另外，在输入文件名的时候可以通过输入`foo/filename.xxx`自动创建名为`foo`的文件夹
 - 新增文件完成后，找到`Pull requests`选项卡，点击`New pull request`，接着点击`Create pull request`，然后填写标题和注释，说明新增了什么文件，最后再次点击`Create pull request`即可
 - 所有步骤完成后，你的`Github`可能出现`xxx/SZU-resources`仓库，如果不希望其显示，可以点击进入该页面，找到`Settings`，拖至页面底部，，点击`Delete this repository`，按照要求删除仓库即可
 
