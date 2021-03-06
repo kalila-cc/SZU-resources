@@ -54,4 +54,4 @@
 
 ## 反馈
 
-[点击](https://github.com/kalila-cc/SZU-resources)进入该仓库页面，找到`Issues`，点击`New issue`后进行适当操作即可反馈问题。
+[点击](https://github.com/kalila-cc/SZU-resources)进入该仓库页面，找到`Issues`，点击`New issue`后进行适当操作即可反馈问题，如反馈想要增加的模块或失效的链接等。
