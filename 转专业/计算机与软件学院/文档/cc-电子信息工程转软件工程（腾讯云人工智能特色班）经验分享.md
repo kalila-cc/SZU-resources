@@ -49,4 +49,4 @@
 
 ## 关于作者
 
-我是 2018 级原电子信息工程现软件工程（腾讯云人工智能特色班）某个叫 cc 的摸鱼选手，这是我的 [Github](https://github.com/kalila-cc) 。
+我是 2018 级原电子信息工程现软件工程（腾讯云人工智能特色班）某个叫 cc 的摸鱼选手，这是我的 [GitHub](https://github.com/kalila-cc) 。
