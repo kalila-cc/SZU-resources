@@ -11,7 +11,7 @@
 
 ## 上传
 
-> 需要拥有 `Github` 账号。另外，如果实在不会操作但是又希望贡献自己的资源的，可以先在本地或云盘整理好文件结构（参照下述[**规范**]( https://github.com/kalila-cc/SZU-resources/blob/master/README.md#%E8%A7%84%E8%8C%83 )进行整理）后，发送至邮箱 [3071927804@qq.com](mailto:3071927804@qq.com)，作者有空将更新该部分资源至该仓库。
+> 需要拥有 `Github` 账号。另外，如果实在不会操作但是又希望贡献自己的资源的，可以先在本地或云盘整理好文件结构（参照下述[**规范**]( https://github.com/kalila-cc/SZU-resources/blob/master/README.md#%E8%A7%84%E8%8C%83 )进行整理）后，发送至邮箱 [chris_tang2021@163.com](mailto:chris_tang2021@163.com)，作者有空将更新该部分资源至该仓库。
 
 - 在该仓库页面找到 `Fork` 并点击，在新页面左上角的仓库名下面可以看到 `forked from xxx` ，说明已经 `fork` 成功
 - 进入特定的需要上传文件的文件夹路径（如要上传的路径是 `foo/bar.txt` 则进入 `foo` 文件夹）
@@ -64,4 +64,4 @@
 
 ## 反馈
 
-[点击](https://github.com/kalila-cc/SZU-resources)进入该仓库页面，找到 `Issues`，点击 `New issue` 后进行适当操作即可反馈问题，如反馈想要增加的模块或失效的链接等。
+在该仓库页面，找到 `Issues`，点击 `New issue` 后进行适当操作即可反馈问题，如反馈想要增加的模块或失效的链接等。
