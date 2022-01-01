@@ -1,4 +1,5 @@
 # author: kalila-cc
+
 DRCOM_CARD_ID=<#card_id#>
 DRCOM_PASSWORD=<#password#>
 LOGIN_URL=http://172.30.255.42:801/eportal/portal/login
