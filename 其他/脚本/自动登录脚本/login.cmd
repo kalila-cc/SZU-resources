@@ -1,4 +1,4 @@
-# author: kalila-cc
+:: author: kalila-cc
 
 @echo off
 SET DRCOM_CARD_ID=<#card_id#>
